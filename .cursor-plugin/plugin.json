@@ -1,0 +1,22 @@
+{
+  "name": "hivefolio-mcp",
+  "displayName": "Hivefolio",
+  "version": "1.0.0",
+  "description": "Connect Hivefolio gaming & esports profiles, orgs, jobs, and events to Cursor via MCP.",
+  "author": {
+    "name": "Hivefolio",
+    "email": "declan@hivefolio.gg"
+  },
+  "homepage": "https://www.hivefolio.gg",
+  "repository": "https://github.com/Hivefolio/hivefolio-mcp-cursor",
+  "license": "MIT",
+  "keywords": [
+    "hivefolio",
+    "esports",
+    "gaming",
+    "mcp",
+    "profiles",
+    "oauth"
+  ],
+  "logo": "assets/logo.svg"
+}

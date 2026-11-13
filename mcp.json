@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "hivefolio": {
+      "url": "https://api.hivefolio.gg/mcp"
+    }
+  }
+}
